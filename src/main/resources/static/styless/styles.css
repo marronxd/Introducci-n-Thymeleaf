@@ -1,0 +1,23 @@
+:root{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+    color: #1a1a1a;
+}
+
+
+
+.agotado{
+    background-color: #ff7c7c;
+    color: #5a0909;
+    font-weight: bold;
+
+}
+
+.disponible{
+    background-color: #add485;
+    color: #2c431d;
+    font-weight: bold;
+}
